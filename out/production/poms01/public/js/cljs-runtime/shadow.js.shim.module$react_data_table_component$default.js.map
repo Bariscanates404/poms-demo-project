@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"shadow.js.shim.module$react_data_table_component$default.js",
+"lineCount":3,
+"mappings":"AAAAA,IAAKC,CAAAA,OAAL,CAAa,0DAAb,CAAA;AACAC,MAAOC,CAAAA,EAAGC,CAAAA,IAAKC,CAAAA,yCAAf,GAA2DH,MAAOC,CAAAA,EAAGG,CAAAA,OAAV,CAAkB,+DAAlB,EAAmF,EAAnF,CAAA,CAAuF,SAAvF,CAA3D;;",
+"sources":["shadow.js.shim.module$react_data_table_component$default.js"],
+"sourcesContent":["goog.provide(\"shadow.js.shim.module$react_data_table_component$default\");\nshadow.js.shim.module$react_data_table_component$default = shadow.js.require(\"module$node_modules$react_data_table_component$dist$index_cjs\", {})[\"default\"];\n"],
+"names":["goog","provide","shadow","js","shim","module$react_data_table_component$default","require"]
+}
